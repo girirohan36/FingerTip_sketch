@@ -1,2 +1,2 @@
-# FingerTip_sketch
+# FingerTip_Sketch
 Sketching in the Screen with OpenCV
