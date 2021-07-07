@@ -2,7 +2,7 @@
 
 Sketching in the Screen with OpenCV
 
-In this the fingertip can be used for drawing on screen with any possible colors present using OpenCV.
+In this,the fingertip can be used for drawing on screen with any possible colors present using OpenCV.
 
 To achieve the target, Color Detection and Tracking is used.
 
@@ -15,4 +15,3 @@ Steps involved are :
 • Erossion minimize the impurtities present in the mask.
 
 • Dilation restores the eroded main mask.
-
